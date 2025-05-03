@@ -92,7 +92,8 @@ function Order() {
               htmlFor="flatNumber"
               className="block text-sm font-medium text-gray-700 mb-1"
             >
-              Flat Number
+              Full Address
+              
             </label>
             <input
               type="text"
