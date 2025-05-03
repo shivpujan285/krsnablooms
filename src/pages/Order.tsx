@@ -190,12 +190,14 @@ function Order() {
             </select>
           </div>
 
-          <button
-            type="submit"
-            className="w-full bg-pink-500 text-white py-3 px-6 rounded-lg font-semibold hover:bg-pink-600 transition-colors"
-          >
-            Place Order
-          </button>
+        <button
+  type="submit"
+  className="w-full bg-pink-500 text-white py-3 px-6 rounded-lg font-semibold 
+             hover:bg-pink-600 hover:scale-105 hover:shadow-lg transition-all duration-300 ease-in-out"
+>
+  Place Order
+</button>
+
         </div>
       </form>
     </div>
